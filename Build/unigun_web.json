@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unigun_prototype",
+"productVersion": "0.1",
+"dataUrl": "unigun_web.data.unityweb",
+"wasmCodeUrl": "unigun_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "unigun_web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
